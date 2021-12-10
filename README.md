@@ -12,4 +12,4 @@ tqdm을 이용한 progress bar 적용 <br>
 
 
 ## 실행 결과
-<img src="https://github.com/coper3976/Atmos_Monitor/blob/main/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.png">
+<img src="https://github.com/coper3976/wconcept_monitor/blob/main/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.png">
